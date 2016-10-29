@@ -83,7 +83,7 @@ ZZZ654481ZZZ	$1358.917	$479.434	$240.934
 ## Notes
 
 * Implemented services are EC2 RDS only.
-* XXX_discount column DON'T considers(subtracts) purchase costs of RI
+* XXX_discount column DON'T considers(subtracts) purchase costs of RI.
 
 ## License
 

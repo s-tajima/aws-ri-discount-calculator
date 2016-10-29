@@ -5,3 +5,5 @@ setup:
 
 test:
 	bundle exec rake spec
+
+travis: test
