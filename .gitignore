@@ -1,0 +1,6 @@
+Gemfile.lock
+vendor/bundle
+.bundle
+*.swp
+report_csv/*
+
