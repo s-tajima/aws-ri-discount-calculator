@@ -26,7 +26,7 @@ $ bundle exec bin/calc ./PATH_TO_REPORT/AAA775901AAA-aws-billing-csv-YYYY-MM.csv
 * [Installation](#installation)
 * [Usage](#usage)
 * [How does it work](#how does it work)
-* [Notes](#Notes)
+* [Notes](#notes)
 * [License](#license)
 
 ## Requirements
