@@ -3,6 +3,8 @@
 aws-ri-discount-calculator calcurates Reserved Instance discount 
 by [monthly report csv](http://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/detailed-billing-reports.html#monthly-report).
 
+[![Build Status](https://travis-ci.org/s-tajima/aws-ri-discount-calculator.svg?branch=master)](https://travis-ci.org/s-tajima/aws-ri-discount-calculator)
+
 ```
 $ bundle exec bin/calc ./PATH_TO_REPORT/AAA775901AAA-aws-billing-csv-YYYY-MM.csv
 +--------------+----------------+--------------+--------------+
