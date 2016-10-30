@@ -66,7 +66,7 @@ $ bundle exec bin/calc ./PATH_TO_REPORT/AAA775901AAA-aws-billing-csv-YYYY-MM.csv
 
 * tsv output (for paste Excel etc...)
 ```
-$ bundle exec bin/calc ./PATH_TO_REPORT/AAA775901AAA-aws-billing-csv-YYYY-MM.csv
+$ bundle exec bin/calc ./PATH_TO_REPORT/AAA775901AAA-aws-billing-csv-YYYY-MM.csv tsv
 account_id	csv_total_cost	ec2_discount	rds_discount
 AAA775901AAA	$100.123	$20.111	$10.987
 BBB748336BBB	$500.03	$100.456	$0.0
