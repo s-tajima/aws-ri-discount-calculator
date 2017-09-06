@@ -25,7 +25,7 @@ $ bundle exec bin/calc ./PATH_TO_REPORT/AAA775901AAA-aws-billing-csv-YYYY-MM.csv
 * [Requirements](#requirements)
 * [Installation](#installation)
 * [Usage](#usage)
-* [How does it work](#how does it work)
+* [How does it works](#how-does-it-works)
 * [Notes](#notes)
 * [License](#license)
 
@@ -75,7 +75,7 @@ CCC061764CCC	$10.149	$0.0	$0.0
 ZZZ654481ZZZ	$1358.917	$479.434	$240.934
 ```
 
-## How does it work
+## How does it works
 
 1. Parse monthly report csv.
 1. Find line for reserved instance usage. Retrieve BlendedRate, UsageQuantity.
